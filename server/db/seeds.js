@@ -8,6 +8,7 @@ db.bookings.insertMany([
     {
         name: "Mark",
         email: "itsamistarae@gmail.com",
+        // nice email address!
         checked_in: false
     }, 
     {
